@@ -3,8 +3,8 @@
 class Airplane :
     public AirCraft
 {
-public:
-    Airplane();
+private:
+    
     Airplane(int w, int p);
     void fly(int headwind, int minutes);
         int numPassengers;               
