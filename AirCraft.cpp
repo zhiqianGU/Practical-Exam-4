@@ -36,5 +36,5 @@ int AirCraft::get_numberOfFlights()
 
 void AirCraft::refuel(){
 
-    fuel = 1.00;
+    fuel = 100%;
 }

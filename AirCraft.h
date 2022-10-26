@@ -13,7 +13,7 @@ public:
 	void set_numberOfFlights(int n);
 	int get_numberOfFlights();
 	int weight;                 
-	float fuel=1.00;                  
+	float fuel=100%;                  
 	int numberOfFlights = 0;;
 	void refuel();
 };
